@@ -1,8 +1,7 @@
-Signal-Slot library using variadic templates
+Signal-Slot library for Subscription Pattern (known methods instead of binding)
 
-Library requires C++ compiler supporting variadic templates and other C++11 features.
+Library requires C++ compiler supporting C++11 features.
 
 Library has very minimal dependecies:
- - std::list
  - std::set
  - std::mutex
